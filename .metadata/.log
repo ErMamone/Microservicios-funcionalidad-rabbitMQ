@@ -5629,3 +5629,18 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-17 09:09:27.498
 !MESSAGE executing callback sts4.classpath.uMOiOXCS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-17 10:39:27.942
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uMOiOXCS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-17 10:39:27.943
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.uMOiOXCS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-17 10:39:27.943
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-17 10:39:27.943
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uMOiOXCS => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-07-17 10:39:28.847
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
