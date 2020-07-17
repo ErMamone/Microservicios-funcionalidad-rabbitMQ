@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.cors.CorsConfiguration"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.springframework.web.cors.UrlBasedCorsConfigurationSource"/>
+<fullyQualifiedTypeName name="org.apache.catalina.filters.CorsFilter"/>
+<fullyQualifiedTypeName name="org.springframework.boot.web.servlet.FilterRegistrationBean"/>
+<fullyQualifiedTypeName name="org.springframework.web.filter.CorsFilter"/>
+<fullyQualifiedTypeName name="org.springframework.core.Ordered"/>
+</qualifiedTypeNameHistroy>
